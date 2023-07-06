@@ -1,2 +1,2 @@
 #!/bin/bash
-/root/alx-system_engineering-devops/0x00-shell_basic/tmp/correction/8935145031999044085954273287153421606800_5/205/461740/0x00-shell_basicss
+o-current_directory=$(pwd)
